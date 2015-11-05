@@ -1,5 +1,5 @@
 ;
-; BOOTIA32.asm
+; HelloWorld_procedures.asm
 ; 2015 Szymon Kłos
 ;
 

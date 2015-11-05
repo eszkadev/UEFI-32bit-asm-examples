@@ -1,5 +1,5 @@
 ;
-; BOOTIA32.asm
+; HelloWorld.asm
 ; 2015 Szymon Kłos
 ;
 
