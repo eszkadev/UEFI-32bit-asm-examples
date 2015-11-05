@@ -1,8 +1,10 @@
 # UEFI-32bit-asm-examples
 
 How to compile:
+
 	fasm BOOTIA32.asm
 
 How to run:
-	Copy result file (BOOTIA32.EFI) to /EFI/boot/BOOTIA32.EFI path on your
-	booting device.
+	Rename result file to BOOTIA32.EFI and place it in the following location:
+	/EFI/boot/BOOTIA32.EFI
+
